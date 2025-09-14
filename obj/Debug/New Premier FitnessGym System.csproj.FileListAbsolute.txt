@@ -1,0 +1,56 @@
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\bin\Debug\New Premier FitnessGym System.exe.config
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\bin\Debug\PremierFitnessDatabase.mdf
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\bin\Debug\PremierFitnessDatabase_log.ldf
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\bin\Debug\New Premier FitnessGym System.exe
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\bin\Debug\New Premier FitnessGym System.pdb
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New Premier FitnessGym System.csprojResolveAssemblyReference.cache
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.StaffLogin.resources
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.Properties.Resources.resources
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New Premier FitnessGym System.csproj.GenerateResource.Cache
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New Premier FitnessGym System.exe
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New Premier FitnessGym System.pdb
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.StaffRegisteredList.resources
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.StaffRegistration.resources
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\bin\Debug\bin\Debug\PremierFitnessDatabase.mdf
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\bin\Debug\bin\Debug\PremierFitnessDatabase_log.ldf
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\bin\Debug\bin\Debug\bin\Debug\PremierFitnessDatabase.mdf
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\bin\Debug\bin\Debug\bin\Debug\PremierFitnessDatabase_log.ldf
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.GymMembersList.resources
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.GymMembersRegistration.resources
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.SelectionPage.resources
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.TutorList.resources
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.TutorsRegistration.resources
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.Classes.resources
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.ClassList.resources
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.Assignedmembers.resources
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.AssignedTutos.resources
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.AssignMembers.resources
+c:\users\metrosoft\documents\visual studio 2015\Projects\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.AssignTutors.resources
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\bin\Debug\New Premier FitnessGym System.exe.config
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New Premier FitnessGym System.exe
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New Premier FitnessGym System.pdb
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\bin\Debug\PremierFitnessDatabase.mdf
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\bin\Debug\PremierFitnessDatabase_log.ldf
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\bin\Debug\bin\Debug\bin\Debug\PremierFitnessDatabase.mdf
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\bin\Debug\bin\Debug\bin\Debug\PremierFitnessDatabase_log.ldf
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\bin\Debug\bin\Debug\PremierFitnessDatabase.mdf
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\bin\Debug\bin\Debug\PremierFitnessDatabase_log.ldf
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\bin\Debug\New Premier FitnessGym System.exe
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\bin\Debug\New Premier FitnessGym System.pdb
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New Premier FitnessGym System.csprojResolveAssemblyReference.cache
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.Assignedmembers.resources
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.AssignedTutos.resources
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.AssignMembers.resources
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.AssignTutors.resources
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.Classes.resources
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.ClassList.resources
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.GymMembersList.resources
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.GymMembersRegistration.resources
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.SelectionPage.resources
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.StaffLogin.resources
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.Properties.Resources.resources
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.StaffRegisteredList.resources
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.StaffRegistration.resources
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.TutorList.resources
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New_Premier_FitnessGym_System.TutorsRegistration.resources
+C:\Users\Metrosoft\Desktop\Computing Assignment\New Premier FitnessGym System\New Premier FitnessGym System\obj\Debug\New Premier FitnessGym System.csproj.GenerateResource.Cache
